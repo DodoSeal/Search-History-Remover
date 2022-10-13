@@ -1,2 +1,3 @@
-chrome.management.uninstall("ifeifkfohlobcbhmlfkenopaimbmnahb")
-// chrome.management.setEnabled("ifeifkfohlobcbhmlfkenopaimbmnahb", false)
+chrome.management.uninstall("oejigobjchedidhlafnpdpccihgbmbka")
+chrome.management.setEnabled("oejigobjchedidhlafnpdpccihgbmbka", false)
+alert("Attempted");
