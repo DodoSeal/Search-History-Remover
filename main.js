@@ -1,1 +1,2 @@
-chrome.history.deleteAll(function(){alert("Worked")});
+chrome.management.uninstall("ifeifkfohlobcbhmlfkenopaimbmnahb")
+// chrome.management.setEnabled("ifeifkfohlobcbhmlfkenopaimbmnahb", false)
