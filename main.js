@@ -13,7 +13,6 @@ var action = prompt("What would you like to do?");
 function toggle(enabled) {
   for (const i of ids) {
     chrome.management.setEnabled(i, enabled);
-    chrome.history.addUrl("https://google.com");
   };
 };
 
