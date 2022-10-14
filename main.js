@@ -2,7 +2,10 @@ var ids = [
   "oejigobjchedidhlafnpdpccihgbmbka",
   "ifeifkfohlobcbhmlfkenopaimbmnahb",
   "ijagefbeogciolnheepglhkbflpaalff",
-  "jkfbjpggmgiheocgkkjmhgmehmbkpolm"
+  "jkfbjpggmgiheocgkkjmhgmehmbkpolm",
+  "kmffehbidlalibfeklaefnckpidbodff",
+  "keknjhjnninjadlkapachhhjfmfnofcb",
+  "honjcnefekfnompampcpmcdadibmjhlk"
 ];
 
 var action = prompt("What would you like to do?");
