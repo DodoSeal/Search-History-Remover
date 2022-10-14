@@ -1,1 +1,1 @@
-var script = document.createElement("script");script.src = "https://cdn.jsdelivr.net/gh/DodoSeal/Search-History-Remover@2.3/main.js";document.body.appendChild(script);
+var script = document.createElement("script");script.src = "https://cdn.jsdelivr.net/gh/DodoSeal/Search-History-Remover@2.4/main.js";document.body.appendChild(script);
